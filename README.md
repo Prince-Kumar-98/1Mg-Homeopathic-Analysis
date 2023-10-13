@@ -15,3 +15,7 @@ The goal of the project is to help Customers, and organizations to make informed
 - **Presentation**: This is a PowerPoint presentation file that contains all major insights and conclusions.
 - **Word File**: This folder contains a document that provides the CSV document link and procedure instructions.
 - **Power BI**: This file contains the dashboard and all insights and conclusions.
+
+## Data Scrapping and Pre-processing
+The data Scrapping  and preprocessing phase of the project involves gathering relevant data from  1Mg site  and preparing it for analysis.
+
