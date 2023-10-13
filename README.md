@@ -32,5 +32,27 @@ The data Scrapping  and preprocessing phase of the project involves gathering re
 Scrapping data from the 1Mg site, I analyzed the data after that I cleaned the data using Python and its libraries. 
 I have done data visualization and insights generation using Power BI
 
+![Screenshot 2023-10-13 162227](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/cb02de1f-9b55-417d-b9ea-723bed452acd)
+
+## Most Used Ingredients in Medicine
+
+![Screenshot 2023-10-13 162246](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/aa6aed8c-74e7-4ce2-aa76-b6ce7a22eb2b)
+
+## CUSTOMERS REVIEWS
+
+Star rating gives us insights into the user's feedback after the product usage.
+
+![Screenshot 2023-10-13 162407](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/c87da67f-031d-4f8c-9f73-d2381786289b)
+## CHALLENGES FACED
+- DATA SCRAPING AND CLEANING = I had to explore various sources to understand how it works. Then performing EDA on the data and segregation was hard.
+- WORKING OM POWER BI = Labourious, time-consuming efforts were taken on segregation the key benefits area and target the key ingredients of power bi
+
+## DASHBOARD
+![Screenshot 2023-10-13 162440](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/2de6990f-593b-4c6a-ae0a-292975808412)
+
+## CONCLUSION
+![Screenshot 2023-10-13 162522](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/d9536c24-ad4e-4c55-8331-b244869ff56c)
+
+
 
 
