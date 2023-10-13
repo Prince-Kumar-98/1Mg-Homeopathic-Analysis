@@ -19,3 +19,18 @@ The goal of the project is to help Customers, and organizations to make informed
 ## Data Scrapping and Pre-processing
 The data Scrapping  and preprocessing phase of the project involves gathering relevant data from  1Mg site  and preparing it for analysis.
 
+![Screenshot 2023-10-13 155513](https://github.com/Prince-Kumar-98/1Mg-Homeopathic-Analysis/assets/138597778/453b60db-f30b-49a0-913c-5e20535bf3be)
+
+## The following technologies are used to collect and work on data:
+
+- Python programming with Pandas Library.
+- SQL (Structured Query Language)
+-  Power BI for data visualization and analysis
+- For data scrapping, I used beautiful soup and selenium.
+
+## Approach
+Scrapping data from the 1Mg site, I analyzed the data after that I cleaned the data using Python and its libraries. 
+I have done data visualization and insights generation using Power BI
+
+
+
